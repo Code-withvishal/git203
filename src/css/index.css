@@ -702,11 +702,11 @@ body, html{
 	animation: giftIcon 500ms ease 4300ms 1 forwards;
 }
 .banner__profile {
-	width: 400px; 
+	width: 500px; 
 	height: 82%;
 	position: absolute; 
 	top: 19%;
-	right: 75%;
+	right: 69%;
 	
  
 }
